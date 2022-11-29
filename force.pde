@@ -11,8 +11,7 @@ class Force
     public ForceType type;
     public float coef;
     public float start_len;
-    
-    
+
     // Simple gravity
     public Force(int ball_1, ForceType type, float coef)
     {
